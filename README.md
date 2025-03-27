@@ -59,23 +59,13 @@ python loan_analysis.py
 - <img width="497" alt="image" src="https://github.com/user-attachments/assets/ebf2d5af-b0ee-47a5-8890-c5e26ba0a4e4" />
 - <img width="448" alt="image" src="https://github.com/user-attachments/assets/fb93051b-7818-4ade-9680-4eb96a6bcff1" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Notes
 - Some categorical variables are one-hot encoded before model training.
 - Additional feature engineering can enhance model accuracy.
 - Data preprocessing is crucial to handle missing or inconsistent values effectively.
+
+## Author
+Developed by Jeremy Martinez-Quinones.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
